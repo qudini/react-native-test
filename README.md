@@ -33,6 +33,7 @@ After making the GET request you'll receive a JSON object that contains informat
 - Cached profile images locally
 
 
-The completed project should be shared via a public github repo.
+
+The completed project should be shared via a public `Github` repo.
 
 You’re free to use any 3rd part library or framework if you can justify the need.

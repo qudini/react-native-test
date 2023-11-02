@@ -8,6 +8,8 @@ This exercise is intended to give you freedom to build an application from scrat
 # Tasks
 Develop a cross platform React Native application that will display a real time list of customers currently in the Queue waiting to be served.
 
+Feel free to use React only if you're not familiar with React Native.
+
 The API to fetch the list of customers is: https://app.qudini.com/api/queue/gj9fs
 
 Before making the API request you will need to authenticate it using HTTP `Basic Auth`. 
@@ -35,7 +37,7 @@ You’re free to use any 3rd part library or framework if you can justify the ne
 - Cached profile images locally
 
 
-# How to subimit?
+# Submition
 The completed project should be shared via a public `Github` repo.
 
 
